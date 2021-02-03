@@ -1,0 +1,13 @@
+D:\Users\User\Documents\tutoria\boole\boole\bin\Debug\netcoreapp3.1\boole.exe
+D:\Users\User\Documents\tutoria\boole\boole\bin\Debug\netcoreapp3.1\boole.deps.json
+D:\Users\User\Documents\tutoria\boole\boole\bin\Debug\netcoreapp3.1\boole.runtimeconfig.json
+D:\Users\User\Documents\tutoria\boole\boole\bin\Debug\netcoreapp3.1\boole.runtimeconfig.dev.json
+D:\Users\User\Documents\tutoria\boole\boole\bin\Debug\netcoreapp3.1\boole.dll
+D:\Users\User\Documents\tutoria\boole\boole\bin\Debug\netcoreapp3.1\boole.pdb
+D:\Users\User\Documents\tutoria\boole\boole\obj\Debug\netcoreapp3.1\boole.csprojAssemblyReference.cache
+D:\Users\User\Documents\tutoria\boole\boole\obj\Debug\netcoreapp3.1\boole.AssemblyInfoInputs.cache
+D:\Users\User\Documents\tutoria\boole\boole\obj\Debug\netcoreapp3.1\boole.AssemblyInfo.cs
+D:\Users\User\Documents\tutoria\boole\boole\obj\Debug\netcoreapp3.1\boole.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\tutoria\boole\boole\obj\Debug\netcoreapp3.1\boole.dll
+D:\Users\User\Documents\tutoria\boole\boole\obj\Debug\netcoreapp3.1\boole.pdb
+D:\Users\User\Documents\tutoria\boole\boole\obj\Debug\netcoreapp3.1\boole.genruntimeconfig.cache
